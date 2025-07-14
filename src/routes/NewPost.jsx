@@ -1,7 +1,7 @@
 import { Form, Link, redirect } from 'react-router-dom';
 
 import classes from './NewPost.module.css';
-import Modal from '../Modal';
+import Modal from '../components/Modal';
 
 function NewPost() {
   return (
